@@ -9,7 +9,7 @@ Content discussed :
 ## Get the Code
 
 ```
-$ git clone https://github.com/CodAffection/Node.js-Expess-MongoDB-CRUD.git
+$ git clone https://github.com/manish-190/CRUD-APP.git
 $ cd Node.js-Expess-MongoDB-CRUD/project
 $ npm install
 ```
